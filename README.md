@@ -27,6 +27,18 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ---
 
+# 📊 Dashboard Statistics
+
+- 📄 Dashboard Pages: **8**
+- 📐 Custom DAX Measures: **35+**
+- 📊 KPIs: **20+**
+- 📈 Visualizations: **80+**
+- ⚡ Power Query Transformations: **50+**
+- 🗂 Data Tables: **6**
+- 🎨 Theme: **Modern Dark UI**
+
+---
+
 # 📄 Dashboard Pages
 
 ### 🏠 Home
@@ -89,17 +101,29 @@ Project introduction with interactive navigation.
 
 # 📊 KPIs
 
+# 📊 KPIs
+
 - Total Sales
 - Total Orders
 - Total Customers
-- Products Sold
+- Total Products Sold
+- Total Categories
 - Estimated Profit
+- Profit Margin %
+- Profit Target
 - Average Order Value
 - Average Selling Price
-- Sales Growth %
-- Profit Margin %
-- High Value Customers
+- Average Spend per Customer
+- MoM Growth %
+- Previous Month Sales
 - Repeat Customers
+- Repeat Customer Rate %
+- High Value Customers
+- Best Selling Product
+- Best Selling Category
+- Highest Profit Category
+- Highest Sales State
+- Top Region
 - States Covered
 - Cities Covered
 - Countries Covered
@@ -113,6 +137,49 @@ Project introduction with interactive navigation.
 - DAX
 - Data Modeling
 - Microsoft Excel
+
+---
+
+# 📐 DAX Measures
+
+The dashboard includes **35+ custom DAX measures** to calculate sales KPIs, customer insights, profitability, business performance, regional analytics, and executive metrics.
+
+| Measure | Purpose |
+|---------|---------|
+| Total Sales | Calculates total revenue generated |
+| Total Orders | Counts total orders |
+| Total Customers | Counts unique customers |
+| Total Products Sold | Calculates total quantity of products sold |
+| Total Categories | Counts unique product categories |
+| Total Discount | Calculates total discount amount |
+| Total Shipping Cost | Calculates total shipping expenses |
+| Total Tax | Calculates total tax collected |
+| Quantity Sold | Calculates total quantity sold |
+| Average Order Value | Calculates average revenue per order |
+| Average Selling Price | Calculates average selling price per product |
+| Average Sales per State | Calculates average sales by state |
+| Average Spend per Customer | Calculates average customer spending |
+| Best Order Size | Identifies the most common order size |
+| Best Payment Method | Returns the best performing payment method |
+| Best Region | Returns the highest performing sales region |
+| Best Selling Category | Returns the highest-selling category |
+| Best Selling Product | Returns the highest-selling product |
+| Highest Sales State | Returns the state with highest sales |
+| Highest Profit Category | Returns the category generating highest profit |
+| Top Region | Returns the top performing region |
+| Estimated Profit | Calculates estimated business profit |
+| Profit Margin % | Calculates profit percentage |
+| Profit Target | Defines target profit benchmark |
+| Business Health | Overall business health indicator |
+| MoM Growth % | Month-over-Month sales growth |
+| Previous Month Sales | Returns previous month's sales |
+| Region Contribution % | Calculates regional sales contribution |
+| Repeat Customers | Counts repeat customers |
+| Repeat Customer Rate % | Calculates repeat customer percentage |
+| High Value Customers | Counts premium customers |
+| States Covered | Counts states served |
+| Cities Covered | Counts cities served |
+| Countries Covered | Counts countries served |
 
 ---
 
