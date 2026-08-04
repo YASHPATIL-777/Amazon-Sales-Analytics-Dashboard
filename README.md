@@ -163,36 +163,43 @@ Amazon-Sales-Analytics-Dashboard
 
 ### 🏠 Home
 
-![Home](<img width="1195" height="675" alt="Home Page" src="https://github.com/user-attachments/assets/2ec64289-4b09-4fa3-a742-d3bf4be026fa" />
-)
+<img width="1195" height="675" alt="image" src="https://github.com/user-attachments/assets/2380716b-0c57-40df-bd87-9249d4d24427" />
+
 
 ### 📈 Overview
 
-![Overview](Images/Overview.png)
+<img width="1397" height="782" alt="image" src="https://github.com/user-attachments/assets/b5d886e8-90ee-4623-90a2-3aa2c46117fb" />
+
 
 ### 💰 Sales Analysis
 
-![Sales Analysis](Images/Sales%20Analysis.png)
+<img width="1397" height="783" alt="image" src="https://github.com/user-attachments/assets/18e93a90-c811-4e29-8cf5-e472e0ba4894" />
+
 
 ### 👥 Customer Insights
 
-![Customer Insights](Images/Customer%20Insights.png)
+<img width="1398" height="782" alt="image" src="https://github.com/user-attachments/assets/e68b57d4-d155-4f28-bbb0-20819d74a917" />
+
 
 ### 📦 Product Performance
 
-![Product Performance](Images/Product%20Performance.png)
+<img width="1398" height="785" alt="image" src="https://github.com/user-attachments/assets/472f392d-3962-479d-8e11-4be231d2c7bf" />
+
 
 ### 🌍 Geographic Analysis
 
-![Geographic Analysis](Images/Geographic%20Analysis.png)
+<img width="1397" height="782" alt="image" src="https://github.com/user-attachments/assets/a4698099-2812-4fad-9f00-0b61966346e5" />
+
 
 ### 💼 Business Insights
 
-![Business Insights](Images/Business%20Insights.png)
+<img width="1396" height="785" alt="image" src="https://github.com/user-attachments/assets/f058977b-c9b2-4e9f-938f-7396b3a6adfd" />
+
 
 ### 🏆 Executive Summary
 
-![Executive Summary](Images/Executive%20Summary.png)
+<img width="1395" height="785" alt="image" src="https://github.com/user-attachments/assets/8fd7d3bd-c5a4-41b2-94e3-72726d75e550" />
+
 
 ---
 
